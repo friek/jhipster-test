@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "nl.mumasoft.jhipster"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "monolith",
+    "baseName": "jhipster",
+    "packageName": "nl.mumasoft.jhipster",
+    "packageFolder": "nl/mumasoft/jhipster",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "OGY4NWEzNmZhN2MwM2FmYTZiYzMzMGNjOWY1ZmZjNDhkYjJiNWRhNmVhOTIzOTAzNzczOGZjZmM5YTM5YzgyZDZhMGMwOTI0NzY0MmI0MTk5MjE0MTMwN2M3NmE4YmZhNzljOWVlYmI4MmNmZGZjMjc1NjM0NTM3OGVhMTliMmM=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}

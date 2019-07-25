@@ -1,0 +1,27 @@
+{
+    "fluentMethods": true,
+    "clientRootFolder": "",
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "company",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "created",
+            "fieldType": "LocalDate"
+        },
+        {
+            "fieldName": "lastModified",
+            "fieldType": "ZonedDateTime"
+        }
+    ],
+    "changelogDate": "20190725083752",
+    "dto": "no",
+    "searchEngine": false,
+    "service": "no",
+    "entityTableName": "client",
+    "databaseType": "sql",
+    "jpaMetamodelFiltering": false,
+    "pagination": "no"
+}
